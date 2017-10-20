@@ -1,0 +1,41 @@
+{
+  "options": [
+    {
+      "type": "addImg",
+      "title": "宫保鸡丁",
+      "id": 1
+    },
+    {
+      "type": "addImg",
+      "title": "鱼香肉丝",
+      "id": 2
+    },
+    {
+      "type": "addImg",
+      "title": "酸辣土豆丝",
+      "id": 3
+    },
+    {
+      "type": "addImg",
+      "title": "糖醋里脊",
+      "id": 4
+    },
+    {
+      "type": "addImg",
+      "title": "麻婆豆腐",
+      "id": 5
+    }
+  ],
+  "votes": [
+    {
+      "name": "beginner",
+      "optionId": 1,
+      "id": 1
+    },
+    {
+      "name": "beginner",
+      "optionId": 1,
+      "id": 2
+    }
+  ]
+}
